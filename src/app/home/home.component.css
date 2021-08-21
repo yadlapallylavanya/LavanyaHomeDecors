@@ -1,0 +1,22 @@
+
+.card-deck{
+    margin: 30px 30px 0px 30px;
+}
+.img{
+    height: 200px;
+    margin: 10px 100px;
+    width: 200px;
+}
+.card{
+    height: 350px;
+    width: 250px;
+    padding: 5px;
+    margin: 30px;
+    background-color: hotpink;
+}
+.card-body{
+    margin: 0px;
+}
+.card:hover{
+    transform:scale(1.12)
+}
